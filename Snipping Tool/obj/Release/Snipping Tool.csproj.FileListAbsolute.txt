@@ -3,3 +3,4 @@ C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping T
 C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.application
 C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.exe
 C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.pdb
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\bin\Release\Snipping Tool.exe.config
