@@ -1,0 +1,17 @@
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.exe.manifest
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.application
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.exe
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.pdb
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Application\MainWindow.baml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Application\MainWindow.g.cs
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Snipping Tool_MarkupCompile.cache
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Snipping Tool.g.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Snipping_Tool.API.resources.ImgurAuthorize.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Snipping_Tool.Properties.Resources.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Snipping Tool.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Snipping Tool.TrustInfo.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Snipping Tool.exe.manifest
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Snipping Tool.application
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Snipping Tool.exe
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Snipping Tool.pdb
