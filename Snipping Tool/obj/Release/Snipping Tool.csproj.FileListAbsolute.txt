@@ -1,13 +1,7 @@
-C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.exe.config
-C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.exe.manifest
-C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.application
-C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.exe
-C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\bin\Release\Snipping Tool.pdb
 C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\bin\Release\Snipping Tool.exe.config
 C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\bin\Release\Snipping Tool.exe.manifest
 C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\bin\Release\Snipping Tool.application
 C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\bin\Release\Snipping Tool.exe
-C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Snipping Tool.csprojResolveAssemblyReference.cache
 C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Application\MainWindow.baml
 C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Application\MainWindow.g.cs
 C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Snipping Tool\Snipping Tool\obj\Release\Snipping Tool_MarkupCompile.cache
